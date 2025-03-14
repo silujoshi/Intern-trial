@@ -19,7 +19,7 @@ const Home= ()=>{
     // </>
     
     <>
-    <div className=" my-[405] ml-[200px] text-justify w-[698] h- ">
+    <div className=" my-[405] ml-[200px] text-justify w-[698] px-4 sm:px-6 lg:px-8">
       <h1 className="text-xl font-bold ">Welcome to your <span className="text-purple-700">Evaheld Legacy Vault</span>, Direk!</h1>
       <p className="text-gray-600 mt-2 text-sm">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. </p>
       <div className="grid grid-cols-3 gap-8 mt-6 justify-text ">
