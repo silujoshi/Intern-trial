@@ -15,9 +15,6 @@ const Layout = (props) => {
           <SideBar />
           {props.children}
         </main>
-        <footer>
-            <Card />
-        </footer>
       </div>
     );
   };
