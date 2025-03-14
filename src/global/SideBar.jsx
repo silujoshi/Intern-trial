@@ -42,6 +42,16 @@ const Sidebar = () => {
             Advance Care Planning
             </a>
           </li>
+          <li>
+            <a href="/Templates" className="hover:bg-gray-700 px-4 py-2 rounded">
+            Templates
+            </a>
+          </li>
+          <li>
+            <a href="/Reflection" className="hover:bg-gray-700 px-4 py-2 rounded">
+            Reflection
+            </a>
+          </li>
 
         </ul>
       </div>
