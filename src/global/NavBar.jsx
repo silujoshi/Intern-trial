@@ -9,9 +9,9 @@ const NavBar = () => {
             <button 
     
             onClick={() => alert('Log out')} 
-            className="flex items-center space-x-2  hover:text-red-800  mr-[50] mt-[33] border-none bg-transparent">
+            className="flex items-center space-x-2  hover:text-red-800  mr-[50] mt-[33] border-none bg-transparent color: #5F348C">
               Logout 
-              <LogOut className="text-xl" />
+              <LogOut className="text-xl color: #5F348C" />
               
             </button>
         </div>
